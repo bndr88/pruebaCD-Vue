@@ -1,5 +1,5 @@
 {
-  "name": "p5",
+  "name": "tarea-3",
   "version": "0.0.0",
   "private": true,
   "type": "module",
@@ -9,8 +9,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "pinia": "^3.0.2",
-    "vue": "^3.5.13"
+    "sweetalert2": "^11.17.2",
+    "vue": "^3.5.13",
+    "vue-router": "^4.5.0"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.2.3",
